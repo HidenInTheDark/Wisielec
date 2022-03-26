@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+div{
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    margin-top: 10px;
+}
+input{
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+}
